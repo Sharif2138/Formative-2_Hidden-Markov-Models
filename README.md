@@ -21,7 +21,7 @@ This project builds a Hidden Markov Model (HMM) to recognize four human activiti
 ## Data Collection
  
 - **App used:** Sensor Logger
-- **Device:** [iPhone 11]
+- **Device:** iPhone 11
 - **Sensors recorded:** Accelerometer (x, y, z), Gyroscope (x, y, z)
 - **Sampling rate:** ~100.8 Hz (verified using two independent methods — total duration divided by sample count, and average timestamp gap)
 - **Recordings:** 50 total, roughly 12–13 per activity, 8-10 seconds each
